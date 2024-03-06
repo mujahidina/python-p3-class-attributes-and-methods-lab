@@ -47,4 +47,4 @@ class Song:
 mujahid = Song("Racks 2 skinny", "migos", "Trap")
 mujahid = Song("Racks 2 skinny", "migos", "Trap")
 
-print(Song.genre_count)
+print(Song.artist_count)
